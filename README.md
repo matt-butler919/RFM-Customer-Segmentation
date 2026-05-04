@@ -1,8 +1,6 @@
 # RFM-Customer-Segmentation
 RFM Customer Segmentation project
 
-SQL link - 
-
 Tableau Public link - https://public.tableau.com/views/RFMCustomerSegmentation_17772740665600/SegmentationCounts?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Data from Tableau Superstore sample data - https://public.tableau.com/app/learn/sample-data
